@@ -9,6 +9,7 @@ public class Main
     {
         System.out.println("Hello, please choose one of the following projects to run: ");
         System.out.println("1. Hello World");
+        System.out.println("2. Letter Value Sum");
 
         Scanner scan = new Scanner(System.in);
         int choice = scan.nextInt();
@@ -17,6 +18,10 @@ public class Main
             case 1:
                 System.out.println("Running: Hello World");
                 HelloWorld.main();
+                break;
+            case 2:
+                System.out.println("Running: Letter Value Sum");
+                LetterValueSum.main();
                 break;
             default:
                 System.out.println("Invalid choice");

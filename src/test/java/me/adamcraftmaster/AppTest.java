@@ -14,4 +14,12 @@ public class AppTest
 
         assertTrue(HelloWorld.helloWorld().equals("Hello World!"));
     }
+
+    @Test
+    public void letterValueSumCheckAccuracy() {
+
+        LetterValueSum LetterValueSum = new LetterValueSum();
+
+        assertTrue(LetterValueSum.letterValueSum("test") == 64); //20+5+19+20
+    }
 }
