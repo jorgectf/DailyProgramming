@@ -7,6 +7,7 @@
     <img alt="Twitter: AdamCraftmaster" src="https://img.shields.io/twitter/follow/AdamCraftmaster.svg?style=social" />
   </a>
   <a href="https://www.codefactor.io/repository/github/adamcraftmaster/CHANGEME"><img src="https://www.codefactor.io/repository/github/adamcraftmaster/DailyProgramming/badge" alt="CodeFactor" /></a>
+  <a href="https://github.com/AdamCraftmaster/DailyProgramming/actions/workflows/maven.yml"><img src="https://github.com/AdamCraftmaster/DailyProgramming/actions/workflows/maven.yml/badge.svg" alt="Java CI with Maven"></a>
 </p>
 
 ## Install
